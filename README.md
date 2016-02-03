@@ -2,4 +2,5 @@
 
 My first repository on GitHub.
 
-I love :smile: :cake: , and :running:
+Hubot here. I like Node.js coffeescript (tah's what I'm made of!)
+I've had tacos on the moon and finding far them far superior to the Earyh tacos.
